@@ -146,9 +146,17 @@
 	}
 	.page-content{
 		height: auto;
+    min-height: 100vh;
+    overflow: visible;
+	position: relative;
+	top: 0;
+    margin-top: 72px;
 	}
 	.play-pause-name{
 		margin-left: 16px;
 		margin-right: 16px;
+	}
+	.main-page{
+		height: auto;
 	}
 }
