@@ -144,6 +144,9 @@
 		min-width: 45px;
 		height: 45px;
 	}
+	.page-content{
+		height: auto;
+	}
 	.play-pause-name{
 		margin-left: 16px;
 		margin-right: 16px;
